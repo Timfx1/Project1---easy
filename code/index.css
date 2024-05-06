@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 375px;
+    /* background-image: url("./images/bg-pattern-desktop.svg"); */
+    height: 100vh;
+    background-color: hsl(0, 100%, 98%);
+}
+
+header {
+    text-align: left;
+    margin-left: 20px;
+    width: 10vw;
+
+}
+
+div img {
+    width: 100%;
+
+}
+
+p {
+    color: hsl(0, 74%, 74%);
+}
+
+#afterimage {
+    margin-top: 10px;
+}
+
+div>p {
+    margin: 20px 0;
+}
+
+button {
+    
+    background-color: hsl(0, 74%, 74%);
+    border: solid 2px hsl(0, 74%, 74%);
+    border-radius: 10px;
+    width: 60px;
+
+}
+
+ .relative {
+    position: relative;
+    display: inline;
+
+    border-radius: 10px;
+ }
+
+ .relative button {
+    position: absolute;
+    right: 0;
+ }
+ input {
+    
+    border: solid 2px hsl(0, 74%, 74%);
+    border-radius: 10px;
+    width: 90%;
+ }
