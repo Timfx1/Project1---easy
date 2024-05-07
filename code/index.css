@@ -89,6 +89,7 @@ input {
         grid-area: b;
         width: 50vw;
         height: 100vh;
+        background-image: url(./images/hero-desktop.jpg);
     }
 
     #d3 {
