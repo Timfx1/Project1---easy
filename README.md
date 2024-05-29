@@ -17,3 +17,4 @@ I used at first normal editing without display then I used grid. But,  things yo
 Grid is better used for items that you think should be easily moved from one position to another in box or table  form and its most preferable that you use it when you have already used it in the first version that you have used to create the website.
 If it's not necessary, use normal or basic html and CSS.
 
+Link to website: https://timfx1.github.io/Project1---easy/code/
